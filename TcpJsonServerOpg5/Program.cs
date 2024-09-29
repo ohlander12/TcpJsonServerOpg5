@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-class Program
+class Server
 {
     static void Main(string[] args)
     {
